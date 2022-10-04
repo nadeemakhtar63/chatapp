@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "restify": "^8.6.1"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
+    "babel-eslint": "^10.1.0"
+  }
+}
